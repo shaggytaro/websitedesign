@@ -168,6 +168,6 @@ hr{
 	width: 600px;
 }
 
-.my-apps {
+.my-apps:hover {
 	cursor: pointer;
 }
